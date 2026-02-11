@@ -2,7 +2,7 @@
 
 body{
     display: flex;
-    background-image: url(pics/stamp.webp);
+    background-image: url(pics/coquete_bg.webp);
     background-attachment: fixed;
     overflow: hidden;
     height: 100%;    
@@ -191,5 +191,4 @@ button:active{
 #udbloom{
     transform: scale(1) rotate(180deg);
 }
-
 
